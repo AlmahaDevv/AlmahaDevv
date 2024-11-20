@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @AlmahaDevv 👋
-- ✨ I’m interested in many fields { programming, hacking,  ..} ✨
-- 🌱 I’m currently learning Java , C langs 🌱
+- ✨ Hi, I’m @AlmahaDevv ✨
+- 🌱 I’m currently learning Java & C langs 🌱
 - 📫 How to reach me @kenzuk0 on X 📫
